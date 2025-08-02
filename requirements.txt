@@ -1,0 +1,6 @@
+flask
+waitress
+requests
+pynacl
+base58
+psutil
